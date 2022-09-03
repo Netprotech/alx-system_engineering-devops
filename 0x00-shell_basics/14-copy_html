@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -rua *.html
+cp ./DirectoryA_1/*.html ./DirectoryA_2
