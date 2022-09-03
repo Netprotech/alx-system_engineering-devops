@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./DirectoryA_1/*.html ./DirectoryA_2
+cp ./0x00-shell_basics/*.html ./alx-system_engineering-devops
